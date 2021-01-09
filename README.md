@@ -1,6 +1,8 @@
 # Mini Loom
 Modular, 3D printable, upgradable, miniature double-roller loom for weaving.
 
+![weaving image](https://github.com/t8rn8r/mini-loom/blob/main/pictures/IMG_20210108_172149080.jpg)
+
 ## Goals
 - Design an inexpensive tabletop loom for
   - tablet weaving 
